@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6283814160711'] 
+global.owner = ['6281381243878'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Lidia Official'
-global.numberowner = '6283814160711'
+global.nameowner = 'azby'
+global.numberowner = '6281381243878'
 global.instagram = 'https://instagram.com/menggsmail'
 global.github = 'https://github.com/Ayacan'
-global.dana = '083814160711'
-global.pulsa = '083814160711'
-global.gopay = '083814160711'
+global.dana = '08'
+global.pulsa = '08'
+global.gopay = '08'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'LiliBot-Md'
+global.namebot = 'AzbyBot-Md'
 global.gc = 'https://chat.whatsapp.com/'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Lidia-6283814160711'
 global.watermark = wm
-global.wm2 = '                     「 083814160711 あ⁩ 」'
-global.wm3 = '⫹⫺ LIDIA'
+global.wm2 = '                     「 azby あ⁩ 」'
+global.wm3 = '⫹⫺ azby'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Lidia Official'
+global.author = '© azby'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
